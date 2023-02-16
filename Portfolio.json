@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "ico":"serviceIco bx bx-code-alt",
+        "name":"Full Stack Developer 🕸️",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":2,
+        "ico":"serviceIco bx bxs-devices",
+        "name":"MERN Stack Developer 😀",
+        "img":"https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":3,
+        "ico":"serviceIco bx bxl-react",
+        "name":"React-Js/React-Native Developer 😇",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":4,
+        "ico":"serviceIco bx bxs-carousel",
+        "name":"Cross Platform Developer 🤗",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":5,
+        "ico":"serviceIco bx bxs-extension",
+        "name":"SAAS Developer 💻",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":6,
+        "ico":"serviceIco bx bxl-android",
+        "name":"Ai Website/App Developer 📱",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":7,
+        "ico":"serviceIco bx bxs-dashboard",
+        "name":"Software Developer ❤️",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":8,
+        "ico":"serviceIco bx bx-paint",
+        "name":"Logo Designer 🧑‍💻",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":9,
+        "ico":"serviceIco bx bxs-image-add",
+        "name":"Image/Banner Designer 🍁",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "id":10,
+        "ico":"serviceIco bx bxs-cookie",
+        "name":"UI/UX Designer 🍂",
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+        "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1"
+    }
+
+]
